@@ -48,8 +48,5 @@ pip install pillow stegano
 - Expand to other file formats (e.g., GIF, BMP).  
 - Develop a mobile version.  
 
-## License  
-This project is open-source under the MIT License.  
-
 ## Author  
 Krishna Karthik Eluripati  
